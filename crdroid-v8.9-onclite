@@ -1,6 +1,11 @@
 ---------------------20/09/2022---------------------
 ----------------------------------------------------
 
+• Settings: Add crDroid Maintainer String
+• fwb: SettingsLib: Use Monet colour on UsageProgressBar
+• fwb: SettingsLib: Follow OOS/RUI battery color pattern
+• fwb: SettingsLib: Rework battery usage bar like OOS
+• fwb: SettingsLib: Redesign and animate Battery and storage progress bars
 • Introduced DeviceSettings
 • Enable Performance Profiles
 • Fixed screen record lag
