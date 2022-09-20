@@ -22,6 +22,7 @@
 • Remove the RenderScript HAL from the vendor manifest
 • Enable seamless transfer support
 • Enable freeform window management
+• Added prebuilt GrapheneCamera
 • Shipped with LineageOS kernel
 • Many more changes.
 
