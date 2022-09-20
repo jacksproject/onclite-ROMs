@@ -1,0 +1,29 @@
+---------------------20/09/2022---------------------
+----------------------------------------------------
+
+• Introduced DeviceSettings
+• Enable Performance Profiles
+• Fixed screen record lag
+• Introduced Libperfmgr improves performance and reduces lag
+• Set speaker and microphone volume to 90
+• overlay: Allowed all apps to use smart replies
+• Update GPS config from stock
+• Set audio to fluence to fix voice recorder & mic buzz
+• Switch QTI Vibrator AIDL hal
+• Switch to CAF ANT+ packages
+• Enable F2FS userdata
+• Disable redir_party_num
+• manifest: Drop android HW tetheroffload config
+• Remove obsolete eBPF property
+• Build libavservices_minijail
+• rootdir: Remove IO read_ahead_kb tune
+• rootdir: Remove unnecessary QTI logkit directories
+• Remove vendor RenderScript implementation
+• Remove the RenderScript HAL from the vendor manifest
+• Enable seamless transfer support
+• Enable freeform window management
+• Shipped with LineageOS kernel
+• Many more changes.
+
+----------------------------------------------------
+---------------------Upcoming-----------------------
